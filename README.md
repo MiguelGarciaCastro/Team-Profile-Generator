@@ -30,3 +30,4 @@ https://watch.screencastify.com/v/S2Fa4oNdh794gfSgGR95
 LINKS->
 https://github.com/MiguelGarciaCastro/Team-Profile-Generator.git
 
+https://miguelgarciacastro.github.io/Team-Profile-Generator/
