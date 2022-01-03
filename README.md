@@ -20,3 +20,9 @@ You can add A Manager, Engineer, or an Intern
 Here is an Example.
 
 <img width="1792" alt="Screen Shot 2022-01-03 at 5 56 42 PM" src="https://user-images.githubusercontent.com/87445858/147989320-f4b6d994-23d2-40db-9482-73092c9c8442.png">
+
+
+Here is also A video of an example on how to use it!
+
+https://watch.screencastify.com/v/S2Fa4oNdh794gfSgGR95
+
