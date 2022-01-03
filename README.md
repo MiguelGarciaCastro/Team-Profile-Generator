@@ -11,5 +11,7 @@ Because this application won’t be deployed, you’ll need to provide a link to
 TO USE:
 
 Download the git repo
+
 Npm I
+
 Run node index.js
